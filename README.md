@@ -97,6 +97,5 @@ BFS Traversal Order: ['A', 'B', 'C', 'D', 'E', 'F', ' ']
 
 ### Result: 
 
+<img width="808" height="361" alt="image" src="https://github.com/user-attachments/assets/be1bf5e7-68af-4dc5-bf8d-3c79e227d4d1" />
 
-
-[Screenshot 2025-09-07 233349.pdf](https://github.com/user-attachments/files/22197992/Screenshot.2025-09-07.233349.pdf)
